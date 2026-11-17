@@ -1,0 +1,7 @@
+
+*.exe
+*.out
+student_marks
+.vscode/
+.DS_Store
+Thumbs.db
